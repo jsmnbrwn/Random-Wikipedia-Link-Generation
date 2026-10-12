@@ -17,5 +17,5 @@ How it works
 git clone https://github.com/jsmnbrwn/Random-Wikipedia-Link-Generation
 cd Random-Wikipedia-Link-Generation
 pip install requests beautifulsoup4
-python wikipedia.py
+python wikipediagen.py
 ```
